@@ -30,6 +30,7 @@ import com.narendra.kafka.model.Foo2;
 @SpringBootApplication
 public class KafkaApplication {
 
+
 	
 	private final Logger LOGGER = LoggerFactory.getLogger(KafkaApplication.class);
 
